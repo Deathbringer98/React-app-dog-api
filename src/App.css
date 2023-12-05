@@ -1,0 +1,10 @@
+.App {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(90deg, rgba(115, 243, 83, 1) 0%, rgba(225, 99, 70, 0.9719537473192402) 46%, rgba(0, 212, 255, 1) 83%);
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat-y; /* Repeat the background only vertically */
+  overflow: auto; /* Allow the page to scroll if content overflows */
+}
